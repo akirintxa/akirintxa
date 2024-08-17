@@ -1,3 +1,7 @@
 print("Soy Akirintxa")
 print("Hola tu que me lees")
-print(3 * 5)
+
+num1 = int(input("Introduzca un número:"))
+num2 = int(input("Introduzca otro número:"))
+
+print("TEST -> Los numeros SUMADOS dan:", num1 + num2)
